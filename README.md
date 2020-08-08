@@ -12,8 +12,8 @@ Used Algorithms
 Result
    * Got 3 types of customers according to their behaviour. 
    
-<img src= "https://github.com/rakibhhridoy/Customer-Segmentation-Clustering/blob/master/Graphs/cluster.png" height= "400px" width = "780px">
-<img src= "https://github.com/rakibhhridoy/Customer-Segmentation-Clustering/blob/master/Graphs/dendogram.png" height= "400px" width = "780px">
+<img src= "https://github.com/rakibhhridoy/Customer-Segmentation-Clustering/blob/master/Graphs/cluster.png" height= "400px" width = "680px">
+<img src= "https://github.com/rakibhhridoy/Customer-Segmentation-Clustering/blob/master/Graphs/dendogram.png" height= "400px" width = "680px">
 
 
 
