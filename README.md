@@ -10,12 +10,27 @@ Used Algorithms
 
 
 Result
-   ** Got 3 types of customers according to their behaviour. **
+   * Got 3 types of customers according to their behaviour. 
    
-   
+
+
+
+
+
+
+
+
+
+
+
    
 Conncet/Hire me 
 [Linkedin](https://linkedin.com/in/rakibhhridoy)
+
+
+
+
+
 
 
 Website 
