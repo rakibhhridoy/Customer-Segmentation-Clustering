@@ -9,7 +9,7 @@ Used Algorithms
 
 
 ### *Result*
-*Got 3 types of customers according to their behaviour. 
+*Got 3 types of customers according to their behaviour.*
    
 ![cluster](Graphs/cluster.png)
 ![cluster](Graphs/dendogram.png)
